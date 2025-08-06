@@ -1,4 +1,4 @@
-# SimpleShopRecieptMaker
+# Simple Shop Reciept Maker
 Make Simple Shop Receipts With This CLI Python Program 
 With An GST Option And Auto Total
 
